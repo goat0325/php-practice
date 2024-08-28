@@ -65,4 +65,5 @@ Q.世界の大陸の人口を全部足すと？<br>
 <br>
 <br>
 Q.各大陸ごとの人口は？<br>
-![大陸ごとの人口](img/phpmyadmin/admin2.png)<br>
+
+![各大陸ごとの人口](img/phpmyadmin/admin2.png)
